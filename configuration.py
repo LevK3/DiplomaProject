@@ -1,0 +1,3 @@
+URL_SERVICE = "https://8e13860a-239e-4550-88e7-3b9e40dbea1b.serverhub.praktikum-services.ru"  # URL_SERVICE хранит базовый URL веб-сервиса, который используется для доступа к API или другим ресурсам.
+CREATE_USER_ORDERS = "/api/v1/orders"  # CREATE_USER_ORDERS хранит путь к API-методу для создания заказа.
+RECEIVE_ORDERS_TRACK = "/api/v1/orders/track?t="  #RECEIVE_ORDERS_TRACK хранит путь к API-методу для получения заказа по его номеру
